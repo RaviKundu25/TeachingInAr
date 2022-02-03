@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainSceneN.unity
+    guid: e0f83d4b8615e498788aea12bee4e4ad
+  - enabled: 0
+    path: Assets/Scenes/ArScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Test.unity
+    guid: 37ee2af60029246b9949597db4a70fa1
+  - enabled: 0
+    path: Assets/Scenes/ChatScene.unity
+    guid: 517be0c3480ad4bf7a29cc138fc660aa
+  - enabled: 0
+    path: Assets/Scenes/JoinScene.unity
+    guid: cd9622088bbb04f4db2086d67fb0ea84
+  - enabled: 0
+    path: Assets/Scenes/TestArScene.unity
+    guid: 40964fbc7e22641709bd2143542e00e5
+  - enabled: 0
+    path: Assets/Scenes/ChatSceneAr.unity
+    guid: 732908dbd37b5440f8a9a9ae222aeff9
+  - enabled: 0
+    path: Assets/Scenes/TestAr.unity
+    guid: 677d945e46af34545a6241e63dbe090d
+  - enabled: 1
+    path: Assets/Scenes/CovidData.unity
+    guid: c2156150ae845422c886fe2c293515a9
+  - enabled: 0
+    path: Assets/Scenes/Engine.unity
+    guid: 898087af8ad2b4601bbe64a053fdd04e
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9d6067c4c3df840a684d3e571e672c4a,
+      type: 2}

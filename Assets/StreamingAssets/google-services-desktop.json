@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085553324537",
+    "firebase_url": "https://xr-app-600b1.firebaseio.com",
+    "project_id": "xr-app-600b1",
+    "storage_bucket": "xr-app-600b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085553324537:android:f93e12b546b8d0cc450d28",
+        "android_client_info": {
+          "package_name": "com.xealistic.xealisticviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085553324537-kqa6eu2b5hdfof992o54a2uq58f8drog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRArTWE9Z_BsMsFNhl-1PBmf_8l6QqNRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085553324537-kqa6eu2b5hdfof992o54a2uq58f8drog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

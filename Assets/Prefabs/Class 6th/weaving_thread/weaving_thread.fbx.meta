@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 1040b640620402444b3ca548eee39bff
+ModelImporter:
+  serializedVersion: 20100
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ble_sheet
+    second: {fileID: 2100000, guid: a7cf620b848fbd841879df49d2484780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_with_strips
+    second: {fileID: 2100000, guid: e3d54c53cbc366843ba6e4857539c341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cutter1
+    second: {fileID: 2100000, guid: 0c2821d710585654ba70e88b0c4dbf5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: experiment_mat
+    second: {fileID: 2100000, guid: e9f79eba5990a7a4db28250b2a5e0ea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert23
+    second: {fileID: 2100000, guid: 7e8c9adb1ca9ab045b8abf162ff7a96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: o_1
+    second: {fileID: 2100000, guid: a5214b91ee90fc945b861572111c4036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object_needed
+    second: {fileID: 2100000, guid: 593b126642766774395b8b7443020a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_10
+    second: {fileID: 2100000, guid: b90d75e957851f642ab65c71f8f977ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_12
+    second: {fileID: 2100000, guid: ecc4dfad31c544742964db3fea57237e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_13
+    second: {fileID: 2100000, guid: 17ff973a0844b644fa48b6b3e50ec17c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_2
+    second: {fileID: 2100000, guid: e566f8fdcbe7ad84e8a80ee22a0464b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_4
+    second: {fileID: 2100000, guid: d1aeddf2cb21ca146b6b9a2ab683aa43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_5
+    second: {fileID: 2100000, guid: 89645fbdb1a00a24face1374462d058c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_6
+    second: {fileID: 2100000, guid: caeb1085fdc0b574692de5c94998b79b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_7
+    second: {fileID: 2100000, guid: 8e73959970c56d74db508be9a0587856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_8
+    second: {fileID: 2100000, guid: febe36b22a4ad3e4abb25cd95c0343c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_9
+    second: {fileID: 2100000, guid: 1a3190b25e70b9049b423d8fb0401415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paper_cutter
+    second: {fileID: 2100000, guid: 25fd0c090c3c5704981476615fa43455, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_sheet
+    second: {fileID: 2100000, guid: 82d2477a619036c4392dc451a074f1a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_without_lines
+    second: {fileID: 2100000, guid: 83057dd6027b3fb49aba90f2a6331360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sheets_of_paper1
+    second: {fileID: 2100000, guid: d81381a9d03801d41aea67e9a455cb26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: step_3
+    second: {fileID: 2100000, guid: 30a2408d376c21d43bb086cb62912a98, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blue_strips
+    second: {fileID: 2800000, guid: 029e177ccb64cd947939a9afff2c0785, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: object_needed
+    second: {fileID: 2800000, guid: 3b59369c6f2a00c41872cdd71cce1534, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paper_cutter
+    second: {fileID: 2800000, guid: 65cebedce623bf4418acdb2a71447df7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: red_strips
+    second: {fileID: 2800000, guid: 64030338225f50f4096c87f4c2c473d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sheets
+    second: {fileID: 2800000, guid: c0d22bbbe3b1a4a4db7e35048d3747af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_1
+    second: {fileID: 2800000, guid: 09d648bf59fa3fb48b69b594456920d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_10
+    second: {fileID: 2800000, guid: 7d28b0d1e325a774dae3e552cc2cd513, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_11
+    second: {fileID: 2800000, guid: a2ed7f566a9308b4f83dc2f50a45e425, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_12
+    second: {fileID: 2800000, guid: e9c3629645efc1f4da9a7c2b58efd9b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_13
+    second: {fileID: 2800000, guid: cf350724566e02949b049848befd4ee7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_2
+    second: {fileID: 2800000, guid: f45a2fa03d8fa274ebb6b03fba26bb16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_3
+    second: {fileID: 2800000, guid: 5bf357036e755af48ba8502c534a070a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_4
+    second: {fileID: 2800000, guid: f2f41253f4658b04a864dca3ab38d0a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_5
+    second: {fileID: 2800000, guid: 034f41ffe58ff3545b9e0997ccccbb6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_6
+    second: {fileID: 2800000, guid: 89e11c4fdcf7b58449e5e153e87936ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_7
+    second: {fileID: 2800000, guid: 71724bbdd7a507f4c94493b695e277a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_8
+    second: {fileID: 2800000, guid: de52db8dadbcffe44b88b1e77d3d440e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_9
+    second: {fileID: 2800000, guid: 3f15ac7caab870244b5c488c0c7363c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: weaving_thread
+    second: {fileID: 2800000, guid: 220d6a12de6141b47b45518154c46e0a, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

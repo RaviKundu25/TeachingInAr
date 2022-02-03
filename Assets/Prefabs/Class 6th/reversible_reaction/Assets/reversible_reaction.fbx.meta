@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: f1c066586f2db2b41b7f1de9ad5e9548
+ModelImporter:
+  serializedVersion: 20100
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beaker
+    second: {fileID: 2100000, guid: eff5f18fadb5e6244b671822e7767204, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_liquid1
+    second: {fileID: 2100000, guid: 259c722faf35c0249ab7cfa12d0513eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottle
+    second: {fileID: 2100000, guid: bb60a8b0333829749a923dca7c65028a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dropper1
+    second: {fileID: 2100000, guid: 3eea6204d7c7f544f889c61a6220b5a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: experiment1
+    second: {fileID: 2100000, guid: ff23476475e695f4c96f26876ffaee44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flask_with_water
+    second: {fileID: 2100000, guid: f7917160c51aeba41b7d4ca02cd7ce95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glucose
+    second: {fileID: 2100000, guid: bda2a6c89f6bb19458718e6b63149931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glucose_powder
+    second: {fileID: 2100000, guid: 73bf899f62f6468499877b36047ee44c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 5ac7e2d059850934bb46e76b0fca075a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mehtlene_blue
+    second: {fileID: 2100000, guid: b15fd825d507acb42be84979d5658870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: methylene_blue
+    second: {fileID: 2100000, guid: 11b691248f467be40ab369a39e515912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object_nedded
+    second: {fileID: 2100000, guid: 857509ba6e7fec847a9871cf9fbfdc6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_1
+    second: {fileID: 2100000, guid: 2f2f908020adc8342ab8105697c593b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_10
+    second: {fileID: 2100000, guid: 8a438a2aee7f5884a8cdf0ff035da36a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_2
+    second: {fileID: 2100000, guid: 263fa5fa8fa67564882c86b204d73445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_3
+    second: {fileID: 2100000, guid: 8db2bde4abac1bc498c692d2aa4275af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_4
+    second: {fileID: 2100000, guid: 007b69e429558ec4b975d4d0bf09e456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_5
+    second: {fileID: 2100000, guid: ca03a87ebd6c6f243a78a84176dd6f6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_6
+    second: {fileID: 2100000, guid: b32c0cae0dc49cc48a5744563983c4ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_7
+    second: {fileID: 2100000, guid: c58a97056f5bd3644917d9297c8cad8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber1
+    second: {fileID: 2100000, guid: ee64cea2479be8f469fc4eec0c3ecb26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber_stooper
+    second: {fileID: 2100000, guid: 53b4105c93ce96f4398d90316a82f1e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: something_to_stir
+    second: {fileID: 2100000, guid: dce661b9e821e50488ac69c8397088ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soudium_hydroxide
+    second: {fileID: 2100000, guid: 038ef8b918f3fb046abf7259fa7152ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water
+    second: {fileID: 2100000, guid: 022bfb2ef22e7c54598f1bd68283562f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 36269699d8d9de148a556a1f44839e7f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blue_bottole_experiment
+    second: {fileID: 2800000, guid: 2a5670dc9a462084eb7ce711085e61c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dropper
+    second: {fileID: 2800000, guid: 4f0202904b04c5741b5ac30d28de6058, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flask with water
+    second: {fileID: 2800000, guid: 253e9a848fedcfa45b80f9cbe9057280, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: glucose_powder
+    second: {fileID: 2800000, guid: 748c7d83be915884abd1817dc55fcc2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metthlyne  blue
+    second: {fileID: 2800000, guid: 4efce7435565eda43b03d4ec7bc1ae4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: object nedded
+    second: {fileID: 2800000, guid: aef47cf6407c1b14f80c6352f59ed6e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rubbber_stoper
+    second: {fileID: 2800000, guid: 9299304aa6dbba84da2191a6b4ebda47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sodium_hydoxide
+    second: {fileID: 2800000, guid: 86c5e7dcf42c6d24199779a407352bb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: something to stir
+    second: {fileID: 2800000, guid: e709202fdf5a18140bddfc0c0d2a329d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_1
+    second: {fileID: 2800000, guid: a0dac9283bda9b840930f5454bd58016, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_10
+    second: {fileID: 2800000, guid: 4e0606fa667b1ee48948e52e0e75124b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_2
+    second: {fileID: 2800000, guid: c429369bee6b39c4381e4cd5742ca333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_3
+    second: {fileID: 2800000, guid: 47b76892a3c9b5247a11f5ff9a6e5b08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_4
+    second: {fileID: 2800000, guid: 19d148bcf9bf47f41b1a9c3a9b8464f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_5
+    second: {fileID: 2800000, guid: 3253c296e38ff87498e45c07c1525912, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_6
+    second: {fileID: 2800000, guid: d85b0e00f691bad46a4b256b72f9aa6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: step_7
+    second: {fileID: 2800000, guid: 3f3d1a2f687867348b16b1b7d997344c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_texture
+    second: {fileID: 2800000, guid: 284dbb0731450cd4c985559890be9519, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

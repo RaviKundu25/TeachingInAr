@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1875456575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ff209a6e100a100ba0dcffba8c86285
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 74e68d1d5b0a136196c01cb792e8c0ad
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/train_model/train_scene.prefab
+- Assets/train_model/new_train_scene/train_scene.prefab
+Dependencies: []

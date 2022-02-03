@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 208605010
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: rainbow_scene
+      Dependencies: {}
+    Info_1:
+      Name: prism
+      Dependencies: {}
+    Info_2:
+      Name: glass
+      Dependencies: {}
+    Info_3:
+      Name: spin_top
+      Dependencies: {}
+    Info_4:
+      Name: reverse_prism
+      Dependencies: {}
+    Info_5:
+      Name: rain_with_lighting
+      Dependencies: {}
+    Info_6:
+      Name: train_scene
+      Dependencies: {}
+    Info_7:
+      Name: map_2
+      Dependencies: {}
